@@ -1,0 +1,12 @@
+2
+find 5: 5
+find 6: 
+find 7: 7
+merge 6 7: 
+find 5: 5
+find 6: 
+find 7: 7
+merge 5 7: 
+find 5: 7
+find 6: 
+find 7: 7

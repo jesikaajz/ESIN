@@ -1,0 +1,36 @@
+-5 3 -2 1 -7 7 6
+find -7
+find -5
+find -2
+merge -5 -2
+find -7
+find -5
+find -2
+merge -2 -7
+find -7
+find -5
+find -2
+merge -5 -7
+find -7
+find -5
+find -2
+find 1
+find 6
+merge 6 1
+find 1
+find 6
+merge 1 -5
+find -7
+find -5
+find -2
+find 1
+find 6
+merge 7 3
+merge -2 7
+find -7
+find -5
+find -2
+find 1
+find 3
+find 6
+find 7
